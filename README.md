@@ -12,6 +12,9 @@
 ## ⇁  Note
 Still a work in progress.
 
+![image](src/design/keyboard.png)
+
 ## - Link to website generator
 https://dactyl.mbugert.de/
+
 
